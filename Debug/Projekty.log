@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\kuba\documents\visual studio 2015\projects\elearning\projekty\source.cpp(249): warning C4018: '>': signed/unsigned mismatch
+c:\users\kuba\documents\visual studio 2015\projects\elearning\projekty\source.cpp(290): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Projekty.vcxproj -> C:\Users\Kuba\Documents\Visual Studio 2015\Projects\eLearning\Debug\eLearning.exe
+  Projekty.vcxproj -> C:\Users\Kuba\Documents\Visual Studio 2015\Projects\eLearning\Debug\eLearning.pdb (Full PDB)
